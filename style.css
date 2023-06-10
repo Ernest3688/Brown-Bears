@@ -1,0 +1,21 @@
+
+
+body {
+  background-color: violet;
+  max-height: 360px;
+}
+h1 {
+  color: blue;
+  font-size: 40px;
+  font-family: Helvetica, Arial sans-serif;
+}
+
+h2 {
+  color: blue;
+  font-size: 25px;
+  font-family: Helvetica, sans-serif, Arial;
+}
+
+
+
+
