@@ -10,4 +10,6 @@ plantigrade paws with five nonretractile claws, and short tails.
 
 # Do bears ever sleep?
  Bears can sleep more than 100 days without eating, drinking, or passing waste!
- ![licensed-image](https://github.com/Ernest3688/Brown-Bears/assets/88985578/2bedabee-b031-420d-80b4-0611a8ce2bd1)
+ 
+ ![image](https://github.com/Ernest3688/Brown-Bears/assets/88985578/e1aec6bf-e6a6-4250-8d57-d196b55afb16)
+
